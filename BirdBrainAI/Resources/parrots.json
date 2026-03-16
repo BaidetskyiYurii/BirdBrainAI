@@ -1,0 +1,976 @@
+
+[
+    {
+        "id": "african-grey-uuid-001",
+        "speciesName": "African Grey Parrot",
+        "origin": "Central and West Africa",
+        "size": "medium",
+        "lifespan": "50–60 years",
+        "talkingAbility": "exceptional",
+        "temperament": "intelligent, sensitive, cautious",
+        "diet": ["pellets", "fresh fruits", "leafy greens", "nuts in moderation"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "highIntelligence",
+                "explanation": "Among the smartest bird species; can develop large vocabularies and understand context."
+            },
+            {
+                "trait": "emotionalSensitivity",
+                "explanation": "Forms deep bonds and can become stressed if neglected or yelled at."
+            },
+            {
+                "trait": "requiresStimulation",
+                "explanation": "Needs daily interaction and puzzle toys to prevent boredom."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x4x4 feet with plenty of perches.",
+            "toysNeeded": "Chew toys, foraging puzzles, talking interaction.",
+            "socialNeeds": "Daily human interaction; thrives in active homes.",
+            "commonChallenges": ["feather plucking", "screaming if lonely", "stubbornness"],
+            "tips": [
+                "Teach words with gentle repetition.",
+                "Avoid Teflon fumes; they are toxic to birds.",
+                "Rotate toys weekly for enrichment."
+            ]
+        },
+        "matchTerms": ["african grey", "grey parrot", "congo grey", "african greys"]
+    },
+    {
+        "id": "budgerigar-uuid-002",
+        "speciesName": "Budgerigar (Budgie)",
+        "origin": "Australia",
+        "size": "small",
+        "lifespan": "8–12 years",
+        "talkingAbility": "good",
+        "temperament": "playful, social, vocal",
+        "diet": ["seed mix", "pellets", "fresh vegetables"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "friendlyNature",
+                "explanation": "Loves company of humans and other budgies; easy to tame."
+            },
+            {
+                "trait": "activeFlier",
+                "explanation": "Needs out-of-cage flight time daily for exercise."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 18x18x24 inches for one budgie; larger for pairs.",
+            "toysNeeded": "Swings, mirrors, bells, shreddable toys.",
+            "socialNeeds": "Prefers living in pairs or groups.",
+            "commonChallenges": ["overgrown nails", "boredom", "seed-only diet"],
+            "tips": [
+                "Provide calcium cuttlebone.",
+                "Talk gently to encourage mimicking words."
+            ]
+        },
+        "matchTerms": ["budgie", "budgerigar", "parakeet", "budgies"]
+    },
+    {
+        "id": "macaw-uuid-003",
+        "speciesName": "Blue and Gold Macaw",
+        "origin": "South America",
+        "size": "large",
+        "lifespan": "60–80 years",
+        "talkingAbility": "moderate",
+        "temperament": "affectionate, loud, intelligent",
+        "diet": ["pellets", "nuts", "fruits", "vegetables"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "strongBeak",
+                "explanation": "Needs tough chew toys; can easily destroy furniture if unsupervised."
+            },
+            {
+                "trait": "highSocialNeed",
+                "explanation": "Needs several hours of interaction per day to prevent screaming."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 5x4x6 feet; allow daily flight time.",
+            "toysNeeded": "Large wooden blocks, climbing ropes, interactive puzzles.",
+            "socialNeeds": "Extremely social; cannot be left alone for long periods.",
+            "commonChallenges": ["loud calls", "chewing damage", "jealousy"],
+            "tips": [
+                "Train early to accept grooming and handling.",
+                "Keep routines consistent to reduce anxiety."
+            ]
+        },
+        "matchTerms": ["macaw", "blue and gold macaw", "macaws"]
+    },
+    {
+        "id": "cockatiel-uuid-004",
+        "speciesName": "Cockatiel",
+        "origin": "Australia",
+        "size": "small",
+        "lifespan": "15–20 years",
+        "talkingAbility": "limited",
+        "temperament": "affectionate, gentle, curious",
+        "diet": ["pellets", "seeds", "fresh vegetables", "occasional fruits"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "gentleNature",
+                "explanation": "Cockatiels are affectionate and bond easily with their owners."
+            },
+            {
+                "trait": "whistlingAbility",
+                "explanation": "Males are known for their whistling and mimicking simple tunes."
+            },
+            {
+                "trait": "lowMaintenance",
+                "explanation": "Easy to care for and suitable for first-time parrot owners."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 20x20x24 inches; allow free flight time daily.",
+            "toysNeeded": "Mirrors, bells, chewable toys, swings.",
+            "socialNeeds": "Enjoys daily human contact or companionship from another bird.",
+            "commonChallenges": ["boredom when left alone", "plucking feathers from stress"],
+            "tips": [
+                "Provide gentle head scratches to build trust.",
+                "Avoid drafts and fumes; cockatiels are sensitive to air quality."
+            ]
+        },
+        "matchTerms": ["cockatiel", "cockatiels", "tiel"]
+    },
+    {
+        "id": "amazon-parrot-uuid-005",
+        "speciesName": "Amazon Parrot",
+        "origin": "Central and South America",
+        "size": "medium",
+        "lifespan": "40–60 years",
+        "talkingAbility": "excellent",
+        "temperament": "social, bold, intelligent",
+        "diet": ["pellets", "vegetables", "fruit", "grains"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "greatTalker",
+                "explanation": "Known for clear speech and mimicry of household sounds."
+            },
+            {
+                "trait": "confidentPersonality",
+                "explanation": "Outgoing and curious, enjoys performing and interacting."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet with perches and climbing space.",
+            "toysNeeded": "Foraging and destructible toys to engage their intelligence.",
+            "socialNeeds": "Needs daily interaction; can become jealous of other pets.",
+            "commonChallenges": ["dominance issues", "territorial behavior", "loud calls"],
+            "tips": [
+                "Keep a consistent training routine.",
+                "Reward calm, positive behavior to prevent aggression."
+            ]
+        },
+        "matchTerms": ["amazon parrot", "amazons", "yellow-naped amazon", "blue-fronted amazon"]
+    },
+    {
+        "id": "lovebird-uuid-006",
+        "speciesName": "Lovebird",
+        "origin": "Africa and Madagascar",
+        "size": "small",
+        "lifespan": "10–15 years",
+        "talkingAbility": "low",
+        "temperament": "affectionate, playful, energetic",
+        "diet": ["seeds", "pellets", "fresh fruits", "greens"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "bondingBehavior",
+                "explanation": "Forms strong pair bonds, either with humans or another bird."
+            },
+            {
+                "trait": "playfulNature",
+                "explanation": "Very active and loves exploring and chewing objects."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 18x18x24 inches for one; prefer pairs in larger cages.",
+            "toysNeeded": "Paper shreddables, ladders, and swings.",
+            "socialNeeds": "Highly social; best kept in pairs or near daily interaction.",
+            "commonChallenges": ["territorial around cages", "biting when hormonal"],
+            "tips": [
+                "Provide regular out-of-cage time.",
+                "Rotate toys frequently to prevent boredom."
+            ]
+        },
+        "matchTerms": ["lovebird", "lovebirds", "peach-faced lovebird", "fischer's lovebird"]
+    },
+    {
+        "id": "cockatoo-uuid-007",
+        "speciesName": "Sulphur-Crested Cockatoo",
+        "origin": "Australia and New Guinea",
+        "size": "large",
+        "lifespan": "70–80 years",
+        "talkingAbility": "good",
+        "temperament": "affectionate, loud, attention-seeking",
+        "diet": ["pellets", "nuts", "fruits", "greens"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "highMaintenance",
+                "explanation": "Requires constant social interaction and enrichment."
+            },
+            {
+                "trait": "expressiveBehavior",
+                "explanation": "Uses crest and body language to communicate emotions."
+            },
+            {
+                "trait": "strongBonding",
+                "explanation": "Forms intense bonds; may become possessive of owner."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 5x4x6 feet; large aviary preferred.",
+            "toysNeeded": "Large chew toys, climbing ropes, puzzle feeders.",
+            "socialNeeds": "Needs hours of daily interaction and mental stimulation.",
+            "commonChallenges": ["loud screaming", "plucking", "chewing furniture"],
+            "tips": [
+                "Encourage independent play early on.",
+                "Never punish vocalization — redirect with training and toys."
+            ]
+        },
+        "matchTerms": ["cockatoo", "sulphur crested cockatoo", "white cockatoo"]
+    },
+    {
+        "id": "eclectus-uuid-008",
+        "speciesName": "Eclectus Parrot",
+        "origin": "Australia, Indonesia, and nearby islands",
+        "size": "medium",
+        "lifespan": "30–40 years",
+        "talkingAbility": "good",
+        "temperament": "gentle, intelligent, quiet",
+        "diet": ["fresh fruits", "vegetables", "pellets", "sprouted grains"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "sexualDimorphism",
+                "explanation": "Males are bright green, females are red and purple — visually distinct."
+            },
+            {
+                "trait": "calmDemeanor",
+                "explanation": "Usually quieter and more reserved than other parrots."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet with natural branches.",
+            "toysNeeded": "Soft wood toys, foraging boxes, hanging vines.",
+            "socialNeeds": "Enjoys human company but values alone time.",
+            "commonChallenges": ["stress from loud homes", "diet-related feather issues"],
+            "tips": [
+                "Provide a varied diet rich in beta-carotene.",
+                "Avoid synthetic dyes in food."
+            ]
+        },
+        "matchTerms": ["eclectus", "eclectus parrot", "eclectus parrots"]
+    },
+    {
+        "id": "conure-uuid-009",
+        "speciesName": "Sun Conure",
+        "origin": "South America",
+        "size": "small",
+        "lifespan": "20–30 years",
+        "talkingAbility": "limited",
+        "temperament": "energetic, affectionate, loud",
+        "diet": ["pellets", "fruits", "vegetables", "nuts"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "vibrantColors",
+                "explanation": "Bright orange, yellow, and green plumage makes them stand out."
+            },
+            {
+                "trait": "playfulEnergy",
+                "explanation": "Loves climbing and spending time with humans."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 24x24x30 inches; allow daily flying space.",
+            "toysNeeded": "Swings, bells, and climbing ladders.",
+            "socialNeeds": "Craves attention; can become noisy if ignored.",
+            "commonChallenges": ["loud calls", "nipping from excitement"],
+            "tips": [
+                "Train bite inhibition early.",
+                "Provide flight time and toys daily."
+            ]
+        },
+        "matchTerms": ["sun conure", "conure", "sun parakeet"]
+    },
+    {
+        "id": "quaker-uuid-010",
+        "speciesName": "Quaker Parrot (Monk Parakeet)",
+        "origin": "South America",
+        "size": "small",
+        "lifespan": "20–30 years",
+        "talkingAbility": "excellent",
+        "temperament": "clever, confident, mischievous",
+        "diet": ["pellets", "vegetables", "grains", "fruits"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "excellentTalker",
+                "explanation": "Can learn dozens of words and phrases with repetition."
+            },
+            {
+                "trait": "independentBuilder",
+                "explanation": "Known for building elaborate stick nests, even in captivity."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 24x24x30 inches with sturdy bars.",
+            "toysNeeded": "Foraging puzzles, chew toys, sticks for nest-building.",
+            "socialNeeds": "Very social and active; enjoys family interaction.",
+            "commonChallenges": ["nest obsession", "territorial behavior"],
+            "tips": [
+                "Offer natural materials for enrichment.",
+                "Keep mentally challenged with training and games."
+            ]
+        },
+        "matchTerms": ["quaker parrot", "monk parakeet", "quakers"]
+    },
+    {
+        "id": "ringneck-uuid-011",
+        "speciesName": "Indian Ringneck Parakeet",
+        "origin": "India and Southeast Asia",
+        "size": "medium",
+        "lifespan": "25–30 years",
+        "talkingAbility": "excellent",
+        "temperament": "curious, independent, intelligent",
+        "diet": ["pellets", "seeds", "fruits", "leafy greens"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "greatMimic",
+                "explanation": "Renowned for their clear speech and ability to mimic household sounds."
+            },
+            {
+                "trait": "independentNature",
+                "explanation": "Often confident and self-assured; enjoys training and mental challenges."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet with space for toys and climbing.",
+            "toysNeeded": "Interactive puzzles, ropes, swings, bells.",
+            "socialNeeds": "Needs daily interaction to stay tame.",
+            "commonChallenges": ["jealousy", "territorial behavior", "loud calls"],
+            "tips": [
+                "Use positive reinforcement training.",
+                "Avoid over-handling to prevent biting."
+            ]
+        },
+        "matchTerms": ["indian ringneck", "ringneck parakeet", "ringneck", "rose-ringed parakeet"]
+    },
+    {
+        "id": "senegal-uuid-012",
+        "speciesName": "Senegal Parrot",
+        "origin": "West Africa",
+        "size": "small",
+        "lifespan": "25–30 years",
+        "talkingAbility": "good",
+        "temperament": "quiet, loyal, gentle",
+        "diet": ["pellets", "vegetables", "grains", "fruits"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "quietCompanion",
+                "explanation": "Among the quietest parrots, ideal for apartments."
+            },
+            {
+                "trait": "bondFocused",
+                "explanation": "Often forms strong attachment to one person."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 24x24x30 inches.",
+            "toysNeeded": "Chew toys, foot toys, hanging ropes.",
+            "socialNeeds": "Moderate — enjoys human time but can self-entertain.",
+            "commonChallenges": ["one-person bonding", "jealousy"],
+            "tips": [
+                "Rotate toys to keep curiosity high.",
+                "Introduce new people early to prevent overbonding."
+            ]
+        },
+        "matchTerms": ["senegal parrot", "senegal", "senegal parrots"]
+    },
+    {
+        "id": "caique-uuid-013",
+        "speciesName": "White-bellied Caique",
+        "origin": "South America",
+        "size": "small",
+        "lifespan": "25–30 years",
+        "talkingAbility": "limited",
+        "temperament": "playful, clownish, energetic",
+        "diet": ["pellets", "fruit", "vegetables", "nuts"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "energeticPlay",
+                "explanation": "Caiques are extremely playful and love acrobatics."
+            },
+            {
+                "trait": "mischievousPersonality",
+                "explanation": "Highly curious, they explore and interact with everything."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet; prefers vertical climbing space.",
+            "toysNeeded": "Swings, ladders, foraging toys.",
+            "socialNeeds": "High — requires daily interactive play.",
+            "commonChallenges": ["territorial tendencies", "jealousy toward other birds"],
+            "tips": [
+                "Teach step-up early to manage energy.",
+                "Provide multiple play areas outside the cage."
+            ]
+        },
+        "matchTerms": ["caique", "white-bellied caique", "caiques"]
+    },
+    {
+        "id": "meyers-uuid-014",
+        "speciesName": "Meyer's Parrot",
+        "origin": "Central and Eastern Africa",
+        "size": "small",
+        "lifespan": "20–30 years",
+        "talkingAbility": "moderate",
+        "temperament": "calm, affectionate, quiet",
+        "diet": ["pellets", "vegetables", "grains", "fruits"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "evenTemperament",
+                "explanation": "Known for their calm, easygoing personalities."
+            },
+            {
+                "trait": "apartmentFriendly",
+                "explanation": "Quiet and low-maintenance, perfect for small spaces."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "24x24x30 inches or larger.",
+            "toysNeeded": "Shreddable and wooden toys.",
+            "socialNeeds": "Moderate — enjoys company but tolerates alone time.",
+            "commonChallenges": ["mild jealousy", "occasional nipping"],
+            "tips": [
+                "Provide foraging opportunities to stay active.",
+                "Maintain a steady routine."
+            ]
+        },
+        "matchTerms": ["meyer's parrot", "meyers parrot", "meyers"]
+    },
+    {
+        "id": "rosebreasted-cockatoo-uuid-015",
+        "speciesName": "Galah (Rose-breasted Cockatoo)",
+        "origin": "Australia",
+        "size": "medium",
+        "lifespan": "40–50 years",
+        "talkingAbility": "good",
+        "temperament": "affectionate, curious, vocal",
+        "diet": ["pellets", "greens", "fruits", "nuts"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "friendlyNature",
+                "explanation": "Very social and enjoys human interaction."
+            },
+            {
+                "trait": "vocalPersonality",
+                "explanation": "Can whistle and mimic, though not excessively loud."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 4x3x5 feet.",
+            "toysNeeded": "Climbing toys, shreddable paper, swings.",
+            "socialNeeds": "Needs daily social interaction.",
+            "commonChallenges": ["attention-seeking", "chewing"],
+            "tips": [
+                "Train to play independently to avoid clinginess.",
+                "Rotate activities often."
+            ]
+        },
+        "matchTerms": ["galah", "rose-breasted cockatoo", "galahs"]
+    },
+    {
+        "id": "bluefront-amazon-uuid-016",
+        "speciesName": "Blue-fronted Amazon",
+        "origin": "South America",
+        "size": "medium",
+        "lifespan": "40–60 years",
+        "talkingAbility": "excellent",
+        "temperament": "social, expressive, intelligent",
+        "diet": ["pellets", "fresh vegetables", "fruits"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "expressiveTalker",
+                "explanation": "Loves to talk and sing loudly; enjoys performing."
+            },
+            {
+                "trait": "confident",
+                "explanation": "Outgoing and assertive, thrives on social attention."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet.",
+            "toysNeeded": "Interactive, musical, and destructible toys.",
+            "socialNeeds": "High — needs several hours of attention daily.",
+            "commonChallenges": ["dominance issues", "territorial behavior"],
+            "tips": [
+                "Establish clear boundaries early.",
+                "Reward calm speech and behavior."
+            ]
+        },
+        "matchTerms": ["blue-fronted amazon", "amazon parrot", "blue front amazon"]
+    },
+    {
+        "id": "cockatoo-major-mitchell-uuid-017",
+        "speciesName": "Major Mitchell’s Cockatoo",
+        "origin": "Australia",
+        "size": "large",
+        "lifespan": "60–70 years",
+        "talkingAbility": "moderate",
+        "temperament": "gentle, affectionate, shy",
+        "diet": ["pellets", "fruits", "greens", "nuts"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "sensitiveNature",
+                "explanation": "Emotionally delicate; needs calm environments."
+            },
+            {
+                "trait": "bondFocused",
+                "explanation": "Forms strong bonds and dislikes being left alone."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 5x4x6 feet or aviary.",
+            "toysNeeded": "Soft wood, foraging, rope toys.",
+            "socialNeeds": "Extremely high — requires daily companionship.",
+            "commonChallenges": ["loneliness", "screaming when ignored"],
+            "tips": [
+                "Provide frequent physical and vocal interaction.",
+                "Avoid sudden changes or loud noises."
+            ]
+        },
+        "matchTerms": ["major mitchell cockatoo", "leadbeater's cockatoo", "pink cockatoo"]
+    },
+    {
+        "id": "double-yellow-amazon-uuid-018",
+        "speciesName": "Double Yellow-Headed Amazon",
+        "origin": "Mexico and Central America",
+        "size": "medium",
+        "lifespan": "60–80 years",
+        "talkingAbility": "exceptional",
+        "temperament": "bold, outgoing, intelligent",
+        "diet": ["pellets", "vegetables", "fruit", "nuts"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "excellentSpeaker",
+                "explanation": "One of the best talkers among parrots; loves performing songs."
+            },
+            {
+                "trait": "showOffPersonality",
+                "explanation": "Enjoys attention and being the center of activity."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet.",
+            "toysNeeded": "Colorful, noise-making, and destructible toys.",
+            "socialNeeds": "High — needs regular training and interaction.",
+            "commonChallenges": ["loud talking", "dominant behavior"],
+            "tips": [
+                "Maintain structured daily routines.",
+                "Use praise and rewards for calm behavior."
+            ]
+        },
+        "matchTerms": ["double yellow-headed amazon", "yellow head amazon", "amazon parrot"]
+    },
+    {
+        "id": "alexandrine-uuid-019",
+        "speciesName": "Alexandrine Parakeet",
+        "origin": "India and Southeast Asia",
+        "size": "medium",
+        "lifespan": "30–40 years",
+        "talkingAbility": "good",
+        "temperament": "curious, confident, playful",
+        "diet": ["pellets", "seeds", "vegetables", "fruits"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "playfulIntelligence",
+                "explanation": "Very active, enjoys learning tricks and games."
+            },
+            {
+                "trait": "independentBehavior",
+                "explanation": "Prefers interaction on their terms but bonds well with gentle owners."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 3x3x4 feet.",
+            "toysNeeded": "Chew toys, swings, climbing ropes.",
+            "socialNeeds": "Moderate — enjoys human time but tolerates alone play.",
+            "commonChallenges": ["territorial around cage", "nipping"],
+            "tips": [
+                "Socialize early to prevent aggression.",
+                "Provide flight time daily."
+            ]
+        },
+        "matchTerms": ["alexandrine parakeet", "alexandrine", "alexandrine parrots"]
+    },
+    {
+        "id": "hawkhead-uuid-020",
+        "speciesName": "Hawk-headed Parrot",
+        "origin": "Amazon Basin, South America",
+        "size": "medium",
+        "lifespan": "30–40 years",
+        "talkingAbility": "moderate",
+        "temperament": "alert, independent, intelligent",
+        "diet": ["pellets", "nuts", "fruits", "greens"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "uniqueCrestDisplay",
+                "explanation": "Raises a colorful head crest when excited or threatened."
+            },
+            {
+                "trait": "highIntelligence",
+                "explanation": "Curious and quick to learn but may become territorial."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 3x3x4 feet.",
+            "toysNeeded": "Puzzle toys, ropes, chewable wood blocks.",
+            "socialNeeds": "High — needs daily interaction and enrichment.",
+            "commonChallenges": ["territoriality", "aggressive defense of cage"],
+            "tips": [
+                "Keep training sessions short and positive.",
+                "Respect their personal space to build trust."
+            ]
+        },
+        "matchTerms": ["hawk-headed parrot", "hawkhead parrot", "red fan parrot"]
+    },
+    {
+        "id": "vasa-parrot-uuid-021",
+        "speciesName": "Greater Vasa Parrot",
+        "origin": "Madagascar",
+        "size": "medium",
+        "lifespan": "30–40 years",
+        "talkingAbility": "limited",
+        "temperament": "curious, quiet, intelligent",
+        "diet": ["fruits", "grains", "seeds", "leafy greens"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "uniqueAppearance",
+                "explanation": "Has a long neck, slim body, and dark feathers that lighten during breeding."
+            },
+            {
+                "trait": "independentNature",
+                "explanation": "Content to self-entertain; enjoys enrichment over cuddling."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet.",
+            "toysNeeded": "Puzzle feeders, ropes, and shreddable toys.",
+            "socialNeeds": "Moderate — enjoys company but not clingy.",
+            "commonChallenges": ["rare availability", "specific dietary needs"],
+            "tips": [
+                "Provide softwood toys to mimic natural foraging.",
+                "Avoid fatty seeds; prefers a balanced fruit diet."
+            ]
+        },
+        "matchTerms": ["vasa parrot", "greater vasa", "madagascar parrot"]
+    },
+    {
+        "id": "kea-uuid-022",
+        "speciesName": "Kea",
+        "origin": "New Zealand",
+        "size": "large",
+        "lifespan": "30–40 years",
+        "talkingAbility": "limited",
+        "temperament": "inquisitive, mischievous, intelligent",
+        "diet": ["fruits", "insects", "roots", "nectar"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "problemSolver",
+                "explanation": "Extremely intelligent and known for solving puzzles and opening locks."
+            },
+            {
+                "trait": "highActivityLevel",
+                "explanation": "Needs constant stimulation; prone to boredom and mischief."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Large aviary with multiple climbing areas.",
+            "toysNeeded": "Puzzles, foraging boxes, and destructible items.",
+            "socialNeeds": "High — thrives on play and exploration.",
+            "commonChallenges": ["destructive behavior", "escape attempts"],
+            "tips": [
+                "Offer new puzzles regularly.",
+                "Supervise out-of-cage time closely."
+            ]
+        },
+        "matchTerms": ["kea", "mountain parrot", "new zealand kea"]
+    },
+    {
+        "id": "cape-parrot-uuid-023",
+        "speciesName": "Cape Parrot",
+        "origin": "South Africa",
+        "size": "medium",
+        "lifespan": "40–50 years",
+        "talkingAbility": "good",
+        "temperament": "calm, intelligent, social",
+        "diet": ["pellets", "nuts", "fruits", "greens"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "nutLover",
+                "explanation": "Prefers hard-shelled nuts and uses its strong beak efficiently."
+            },
+            {
+                "trait": "gentleTemperament",
+                "explanation": "Affectionate and patient with familiar people."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet.",
+            "toysNeeded": "Hard wood blocks, foraging toys, climbing ropes.",
+            "socialNeeds": "High — enjoys family interaction.",
+            "commonChallenges": ["sensitive to stress", "rare availability"],
+            "tips": [
+                "Provide natural branches for chewing.",
+                "Offer a calm environment with daily interaction."
+            ]
+        },
+        "matchTerms": ["cape parrot", "brown-necked parrot"]
+    },
+    {
+        "id": "red-bellied-parrot-uuid-024",
+        "speciesName": "Red-bellied Parrot",
+        "origin": "East Africa",
+        "size": "small",
+        "lifespan": "25–30 years",
+        "talkingAbility": "moderate",
+        "temperament": "gentle, curious, loyal",
+        "diet": ["pellets", "fruits", "grains", "greens"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "quietDisposition",
+                "explanation": "Very quiet and calm, great for apartments."
+            },
+            {
+                "trait": "bondingTendency",
+                "explanation": "Forms strong attachment with one person."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 24x24x30 inches.",
+            "toysNeeded": "Chew toys, bells, and perches.",
+            "socialNeeds": "Moderate — enjoys human company but not demanding.",
+            "commonChallenges": ["overbonding", "occasional jealousy"],
+            "tips": [
+                "Introduce new people early.",
+                "Encourage independence through play."
+            ]
+        },
+        "matchTerms": ["red-bellied parrot", "poicephalus rufiventris"]
+    },
+    {
+        "id": "blue-headed-pionus-uuid-025",
+        "speciesName": "Blue-headed Pionus",
+        "origin": "Central and South America",
+        "size": "medium",
+        "lifespan": "25–40 years",
+        "talkingAbility": "limited",
+        "temperament": "quiet, affectionate, shy",
+        "diet": ["pellets", "fruits", "vegetables"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "easygoing",
+                "explanation": "Gentle nature and not prone to biting."
+            },
+            {
+                "trait": "quietCompanion",
+                "explanation": "Soft-spoken parrot; ideal for quiet homes."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x3 feet.",
+            "toysNeeded": "Soft chew toys and swings.",
+            "socialNeeds": "Moderate — enjoys gentle interaction.",
+            "commonChallenges": ["shyness", "mild respiratory sensitivity"],
+            "tips": [
+                "Avoid strong scents or aerosols.",
+                "Keep environment calm and steady."
+            ]
+        },
+        "matchTerms": ["blue-headed pionus", "pionus parrot", "pionus"]
+    },
+    {
+        "id": "yellow-crowned-amazon-uuid-026",
+        "speciesName": "Yellow-crowned Amazon",
+        "origin": "South America",
+        "size": "medium",
+        "lifespan": "50–60 years",
+        "talkingAbility": "excellent",
+        "temperament": "bold, vocal, intelligent",
+        "diet": ["pellets", "fruits", "vegetables", "nuts"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "vocalPerformer",
+                "explanation": "Enjoys singing, talking, and mimicking daily sounds."
+            },
+            {
+                "trait": "outgoingPersonality",
+                "explanation": "Loves attention and social interaction."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet.",
+            "toysNeeded": "Musical toys, talking interactions, foraging puzzles.",
+            "socialNeeds": "High — needs structured daily attention.",
+            "commonChallenges": ["dominance", "occasional screaming"],
+            "tips": [
+                "Reinforce quiet behavior with praise.",
+                "Avoid overstimulation with too many people at once."
+            ]
+        },
+        "matchTerms": ["yellow-crowned amazon", "yellow crown amazon", "amazon parrot"]
+    },
+    {
+        "id": "bronze-winged-parrot-uuid-027",
+        "speciesName": "Bronze-winged Parrot",
+        "origin": "South America",
+        "size": "medium",
+        "lifespan": "25–35 years",
+        "talkingAbility": "limited",
+        "temperament": "calm, shy, affectionate",
+        "diet": ["pellets", "fruits", "greens", "nuts"],
+        "careLevel": "medium",
+        "traits": [
+            {
+                "trait": "gentleNature",
+                "explanation": "Loving and quiet, suitable for calm homes."
+            },
+            {
+                "trait": "beautifulPlumage",
+                "explanation": "Dark bronze feathers with violet-blue highlights."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x3 feet.",
+            "toysNeeded": "Wood toys, swings, and climbing perches.",
+            "socialNeeds": "Moderate — enjoys interaction but not overly demanding.",
+            "commonChallenges": ["nervousness in loud settings"],
+            "tips": [
+                "Place cage in a calm, stable room.",
+                "Encourage slow, gentle handling."
+            ]
+        },
+        "matchTerms": ["bronze-winged parrot", "pionus chalcopterus"]
+    },
+    {
+        "id": "ducorps-cockatoo-uuid-028",
+        "speciesName": "Ducorps Cockatoo",
+        "origin": "Solomon Islands",
+        "size": "medium",
+        "lifespan": "40–50 years",
+        "talkingAbility": "moderate",
+        "temperament": "affectionate, playful, energetic",
+        "diet": ["pellets", "fruits", "nuts", "greens"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "livelyTemperament",
+                "explanation": "Very active and social; enjoys dancing and playtime."
+            },
+            {
+                "trait": "attentionSeeking",
+                "explanation": "Can be noisy if left alone or bored."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 4x3x5 feet.",
+            "toysNeeded": "Ropes, bells, puzzle feeders.",
+            "socialNeeds": "High — needs hours of daily interaction.",
+            "commonChallenges": ["screaming", "chewing furniture"],
+            "tips": [
+                "Rotate toys often.",
+                "Provide supervised out-of-cage playtime daily."
+            ]
+        },
+        "matchTerms": ["ducorps cockatoo", "solomon cockatoo", "broad-crested cockatoo"]
+    },
+    {
+        "id": "parrotlet-uuid-029",
+        "speciesName": "Pacific Parrotlet",
+        "origin": "Central and South America",
+        "size": "tiny",
+        "lifespan": "15–20 years",
+        "talkingAbility": "good",
+        "temperament": "bold, curious, confident",
+        "diet": ["seeds", "pellets", "fruits", "greens"],
+        "careLevel": "low",
+        "traits": [
+            {
+                "trait": "smallButMighty",
+                "explanation": "Despite their size, parrotlets are fearless and full of personality."
+            },
+            {
+                "trait": "territorialNature",
+                "explanation": "Best housed singly unless closely bonded."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "Minimum 18x18x24 inches.",
+            "toysNeeded": "Ladders, bells, chewable toys.",
+            "socialNeeds": "Moderate — enjoys interaction but can self-entertain.",
+            "commonChallenges": ["territorial behavior", "nipping"],
+            "tips": [
+                "Handle gently and often.",
+                "Offer daily flight or exercise time."
+            ]
+        },
+        "matchTerms": ["pacific parrotlet", "parrotlet", "green-rumped parrotlet"]
+    },
+    {
+        "id": "rainbow-lory-uuid-030",
+        "speciesName": "Rainbow Lorikeet",
+        "origin": "Australia and Indonesia",
+        "size": "small",
+        "lifespan": "20–30 years",
+        "talkingAbility": "moderate",
+        "temperament": "playful, noisy, social",
+        "diet": ["nectar", "fruits", "vegetables", "special lorikeet mix"],
+        "careLevel": "high",
+        "traits": [
+            {
+                "trait": "nectarFeeder",
+                "explanation": "Has a brush-tipped tongue for feeding on nectar and pollen."
+            },
+            {
+                "trait": "vividColors",
+                "explanation": "Striking blue head, green wings, and bright orange chest."
+            }
+        ],
+        "careRecommendations": {
+            "cageSize": "At least 3x3x4 feet; large flight area preferred.",
+            "toysNeeded": "Ropes, swings, water toys.",
+            "socialNeeds": "High — loves play and constant interaction.",
+            "commonChallenges": ["messy droppings", "loud calls"],
+            "tips": [
+                "Clean cage daily due to nectar diet.",
+                "Provide showers or misting regularly."
+            ]
+        },
+        "matchTerms": ["rainbow lorikeet", "lorikeet", "rainbow lory"]
+    }
+]
